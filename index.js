@@ -20,7 +20,7 @@ const promptUser = () => {
         },
         {
             type: 'input',
-            name: 'Usage',
+            name: 'usage',
             message: 'Describe how your project can be used',
         },
         {
@@ -47,7 +47,7 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'questions',
-            message: 'Please outline the best way for people to contact your for further information',
+            message: 'Please outline the best way for people to contact you for further information',
         },
     ]);
 };
@@ -58,6 +58,15 @@ const generateREADME = ({title, description, installation, usage, contribution, 
 ## Description
 
 ${description}
+
+## Table of Contents
+
+- [Installation](#installation-instructions)
+- [Usage Instructions](#usage-instructions)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Test Instructions](#test-instructions)
+- [Licences](#licences)
+- [Questions](#questions)
 
 ## Installation Instructions
 

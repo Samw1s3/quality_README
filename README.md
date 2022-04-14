@@ -1,6 +1,10 @@
 # quality_README
 Dynamically created README file
 
+## Table of Contents
+[Installation Instructions](#installation-instructions)
+
+
 ## Installation Instructions
 1. Open the integrated terminal
 2. Type npm init -y
@@ -14,3 +18,9 @@ Dynamically created README file
 8. in the terminal type npm install inquirer
 9. press enter
 10. node_modules folder should appear in your files.  
+
+## Resources
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+https://docs.npmjs.com/cli/v6/commands/npm-
+https://www.pluralsight.com/guides/how-to-use-gitignore-file
+https://choosealicense.com/licenses/
