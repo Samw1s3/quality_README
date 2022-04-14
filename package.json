@@ -1,0 +1,23 @@
+{
+  "name": "quality_readme",
+  "version": "1.0.0",
+  "description": "Dynamically created README file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samw1s3/quality_README.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samw1s3/quality_README/issues"
+  },
+  "homepage": "https://github.com/Samw1s3/quality_README#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
