@@ -52,9 +52,30 @@ const promptUser = () => {
     ]);
 };
 
-const generateREADME = ({title, description, installation, usage, contribution, tests, licences, github, questions}) =>
-`# ${title}
+function generateBadgeUrl(licences){ 
+    return `https://img.shields.io/badge/licence-${encodeURIComponent(licences)}-blue`;
+}
 
+function generatreLicenceInfo(licences){
+    if (licences === "GNU GPLv3"){
+        return "GNU GPLv3 licence info"
+    };
+    if (licences === "MIT Licence"){
+        return "MIT licence info"
+    };
+    if (licences === "Unlicence") {
+        return "Unlicence info"
+    }
+
+}
+
+const generateREADME = ({title, description, installation, usage, contribution, tests, licences, github, questions}) =>
+`# ${title} 
+
+## Licences 
+
+![Licence](${generateBadgeUrl(licences)})
+${generatreLicenceInfo(licences)}
 ## Description
 
 ${description}
@@ -83,8 +104,6 @@ ${contribution}
 ## Test Instructions
 
 ${tests}
-
-## Licences
 
 ## Questions
 To find out more information about this repo please visit my github page https://github.com/${github}

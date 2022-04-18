@@ -1,8 +1,12 @@
-# Test
+# asdsa 
 
+## Licences 
+
+![Licence](https://img.shields.io/badge/licence-GNU%20GPLv3-blue)
+GNU GPLv3 licence info
 ## Description
 
-asdasda
+asdas
 
 ## Table of Contents
 
@@ -15,24 +19,22 @@ asdasda
 
 ## Installation Instructions
 
-please do
+asda
 
 ## Usage Insturctions
 
-this way
+asd
 
 ## Contribution Guidelines
 
-asdasd
+asda
 
 ## Test Instructions
 
-asdas
-
-## Licences
+asd
 
 ## Questions
-To find out more information about this repo please visit my github page https://github.com/samw1s3
+To find out more information about this repo please visit my github page https://github.com/sads
 
 Need for info?
-asdasd
+dfd
