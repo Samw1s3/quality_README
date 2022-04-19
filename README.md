@@ -8,6 +8,7 @@ This repository allows the user to run the index.js in node and be asked questio
 - [Installation Instructions](#installation-instructions)
 - [Resources](#Resources)
 - [Repository](#Repository)
+- [Walk Through](#Walk-through-video)
 
 ## Installation Instructions
 1. Open the integrated terminal
@@ -33,3 +34,6 @@ https://choosealicense.com/licenses/
 ## Repository
 
 https://github.com/Samw1s3/quality_README
+
+## Walk Through Video
+https://drive.google.com/file/d/1xflbzRK1InmygSPWi0p8FMjunKSrmk4K/view?usp=sharing
