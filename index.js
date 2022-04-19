@@ -58,13 +58,14 @@ function generateBadgeUrl(licences){
 
 function generatreLicenceInfo(licences){
     if (licences === "GNU GPLv3"){
-        return "GNU GPLv3 licence info"
+        return "Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights."
+    
     };
     if (licences === "MIT Licence"){
-        return "MIT licence info"
+        return "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
     };
     if (licences === "Unlicence") {
-        return "Unlicence info"
+        return "A license with no conditions whatsoever which dedicates works to the public domain. Unlicensed works, modifications, and larger works may be distributed under different terms and without source code."
     }
 
 }
