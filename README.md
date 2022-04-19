@@ -2,7 +2,7 @@
 Dynamically created README file
 
 ## Description
-This repository allows the user to run the index.js in node and be answered questions that are then inserted into a README file on completion. The created README file has a function table of contents, and when clicked it will take you to the relevent section. It creates a badge reflecting the licence of choice. 
+This repository allows the user to run the index.js in node and be asked questions and the answers are then inserted into a README file on completion. The created README file has a function table of contents, and when clicked it will take you to the relevent section. It creates a badge reflecting the licence of choice. 
 
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
