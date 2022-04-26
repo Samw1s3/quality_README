@@ -2,12 +2,13 @@
 Dynamically created README file
 
 ## Description
-This repository allows the user to run the index.js in node and be answered questions that are then inserted into a README file on completion. The created README file has a function table of contents, and when clicked it will take you to the relevent section. It creates a badge reflecting the licence of choice. 
+This repository allows the user to run the index.js in node and be asked questions and the answers are then inserted into a README file on completion. The created README file has a function table of contents, and when clicked it will take you to the relevent section. It creates a badge reflecting the licence of choice. 
 
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
 - [Resources](#Resources)
 - [Repository](#Repository)
+- [Walk Through](#Walk-through-video)
 
 ## Installation Instructions
 1. Open the integrated terminal
@@ -33,3 +34,6 @@ https://choosealicense.com/licenses/
 ## Repository
 
 https://github.com/Samw1s3/quality_README
+
+## Walk Through Video
+https://drive.google.com/file/d/1xflbzRK1InmygSPWi0p8FMjunKSrmk4K/view?usp=sharing
